@@ -1,4 +1,4 @@
-# 🛠️ Dotfiles
+# Dotfiles
 
 This repo contains configs for, 
 
