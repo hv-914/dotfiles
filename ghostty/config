@@ -1,0 +1,12 @@
+cursor-style = block
+cursor-style-blink = true
+shell-integration-features = no-cursor
+
+theme = catppuccin-mocha
+background-opacity = 0.85
+
+window-height = 32
+window-width = 106
+
+font-family = "Caskaydia Cove Nerd Font"
+font-size = 14
